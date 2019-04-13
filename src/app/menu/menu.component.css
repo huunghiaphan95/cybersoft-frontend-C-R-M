@@ -1,0 +1,13 @@
+#menu {
+    height:100vh;
+    background-color: #424242; 
+}
+#menu .nav-item {
+    background-color: #515151;
+}
+#menu .nav-item a {
+    color: #fafefb;
+}
+#menu .nav-item a:hover {
+    background: gray;
+}

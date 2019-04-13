@@ -1,0 +1,42 @@
+#header {
+   background-color: #5f87b1;
+   color: #fefdf9;
+}
+#header .notifications {
+   height: 100%;
+   display: flex;
+   padding-left: 0;
+}
+#header .notifications .notification-item {
+   position: relative;
+   width: 20px;
+   height: 100%;
+   margin: 0 5px;
+}
+#header .notifications .notification-item .icon {
+   position: absolute;
+   top: 12px;
+}
+#header .notifications .notification-item .badge {
+  font-size: 61%;
+  z-index: 2;
+  top: 5px;
+  right: -3px;
+  position: absolute;
+}
+#header .avatar {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+#header .avatar .img-avatar {
+   width: 15%;
+   height: 70%;
+}
+#header .avatar .img-avatar img {
+   width: 100%;
+   height: 100%;
+}
+#header .avatar .name {
+   margin: 0px 5px;
+}

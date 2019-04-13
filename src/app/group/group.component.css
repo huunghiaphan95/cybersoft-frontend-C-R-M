@@ -1,0 +1,38 @@
+#group h1 {
+    color: #868686;
+}
+#group .add-job {
+    color: #fefef8;
+    background-color: #93b34c;
+    cursor: pointer;
+    border: none;
+    padding: 5px 15px;
+    margin-right: 15px;
+}
+#group .menu {
+    border-bottom: 1px solid #dddddd;
+}
+#group .menu .nav-item a {
+    color: #7ca3c9;
+}
+#group .menu .active {
+    border: 1px solid #dddddd;
+    border-bottom: 0px;
+}
+#group .menu .active a {
+    color: #63575b;
+}
+#group .chart-pie {
+    border: 1px solid #86b055;
+}
+#group .chart-pie .card-header {
+    background-color: #86b055;
+    color: white;
+}
+#group .chart-bar {
+    border: 1px solid #558abe;
+}
+#group .chart-bar .card-header {
+    background-color: #558abe;
+    color: white;
+}

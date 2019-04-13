@@ -1,0 +1,13 @@
+#login {
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px 40px;
+    background-image: url(../../assets/images/bg-login.png);
+    color: #f8feff;
+    overflow: auto;
+}
+#login .btn-login {
+    background-color: #91b352;
+    color: #f8feff;
+    align-items: flex-end;
+}
