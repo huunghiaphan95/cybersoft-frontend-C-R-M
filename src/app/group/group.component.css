@@ -1,14 +1,6 @@
 #group h1 {
     color: #868686;
 }
-#group .add-job {
-    color: #fefef8;
-    background-color: #93b34c;
-    cursor: pointer;
-    border: none;
-    padding: 5px 15px;
-    margin-right: 15px;
-}
 #group .menu {
     border-bottom: 1px solid #dddddd;
 }

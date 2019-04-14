@@ -1,0 +1,7 @@
+#member .card {
+    border: 1px solid #e7815a;
+}
+#member .card .card-header {
+    background-color: #e7815a;
+    color: white;
+}

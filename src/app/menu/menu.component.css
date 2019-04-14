@@ -5,6 +5,9 @@
 #menu .nav-item {
     background-color: #515151;
 }
+#menu .active {
+    background: gray;
+}
 #menu .nav-item a {
     color: #fafefb;
 }

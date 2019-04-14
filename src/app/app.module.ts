@@ -8,6 +8,7 @@ import { LoginComponent } from './login/login.component';
 import { MenuComponent } from './menu/menu.component';
 import { AccountComponent } from './account/account.component';
 import { GroupComponent } from './group/group.component';
+import { MemberComponent } from './member/member.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { GroupComponent } from './group/group.component';
     LoginComponent,
     MenuComponent,
     AccountComponent,
-    GroupComponent
+    GroupComponent,
+    MemberComponent
   ],
   imports: [
     BrowserModule,
